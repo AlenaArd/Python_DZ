@@ -13,5 +13,8 @@ month = {
     11: 'ноябрь',
     12: 'декабрь'
 }
-result = f'Это {month[n]}.'
+wi, sp, su, au = 'зима', 'весна', 'лето', 'осень'
+month_season = {1: wi, 2: wi, 3: sp, 4: sp, 5: sp, 6: su, 7: su, 8: su, 9: au, 10: au, 11: au, 12: wi}
+
+result = f'Это - {month_season[n]}, месяц {month[n]}.'
 print(result)
