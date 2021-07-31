@@ -1,11 +1,15 @@
 from itertools import cycle, count
 
-abc_list = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
-num_list = [n for n in range(11, 80, 11)]
-print (num_list)
-n = 17
+abc_list = [('Aa'), ('Bb'), ('Cc'), ('Dd'), ('Ee'), ('Ff'), ('Gg')]
+num_list = [n for n in range(3, 11, 1)]
+print(num_list)
+n = 25
+counter = count(3, 3)
+n_abc = cycle(abc_list)
+new_abc = [next(n_abc) for el in range(n)]
+new_list = [next(counter) for num in range(n)]
+print(new_abc)
+print(new_list)
+set_abc = set(new_abc)
+print(set_abc)
 
-new_abc = [cycle(abc_list)]
-print(new_abc[:18])
-
-#abc_list = ['Aa', 'Bb', 'Cc', 'Dd', 'Ee', 'Ff', 'Gg']
