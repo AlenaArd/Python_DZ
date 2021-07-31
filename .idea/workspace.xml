@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="DZ_04 preparation stage">
+    <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="DZ_04 send for verification">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_ 1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_7.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_03.py" afterDir="false" />
@@ -13,13 +27,6 @@
       <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/exercise_ 1.md" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/exercise_ 1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/exercise_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/exercise_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/exercise_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/exercise_3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/exercise_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/exercise_4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/exercise_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/exercise_5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/exercise_6.md" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/exercise_6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/exercise_7.md" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/exercise_7.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="d928693db4d1338ebe287190b4e938dc8783ec9b" />
+        <entry key="$PROJECT_DIR$" value="AA_DZ_4_Python" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,7 +44,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DZ_4/DZ_4_01.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/4/DZ_04/DZ_4_01.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DZ_4/DZ_4_02.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1vsIM7xY0IlmgPfLFKBFLf7tKM4" />
@@ -53,8 +59,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.DZ_4_01">
-    <configuration name="DZ_4_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DZ_4_07">
+    <configuration name="DZ_4_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -66,28 +72,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DZ_4_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_4" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,6 +115,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DZ_4_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,19 +188,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.DZ_4_05" />
-      <item itemvalue="Python.DZ_4_07" />
       <item itemvalue="Python.DZ_4_04" />
-      <item itemvalue="Python.DZ_4_02" />
-      <item itemvalue="Python.DZ_4_01" />
+      <item itemvalue="Python.DZ_4_05" />
+      <item itemvalue="Python.DZ_4_03" />
+      <item itemvalue="Python.DZ_4_06" />
+      <item itemvalue="Python.DZ_4_07" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DZ_4_01" />
-        <item itemvalue="Python.DZ_4_02" />
+        <item itemvalue="Python.DZ_4_07" />
+        <item itemvalue="Python.DZ_4_06" />
         <item itemvalue="Python.DZ_4_05" />
         <item itemvalue="Python.DZ_4_04" />
-        <item itemvalue="Python.DZ_4_07" />
+        <item itemvalue="Python.DZ_4_03" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627418408184</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DZ_04 send for verification">
+      <created>1627733915538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627733915539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +262,18 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Py_AA_04" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
@@ -269,6 +293,7 @@
     <MESSAGE value="Dz_01 уже проверено" />
     <MESSAGE value="DZ_03 tasks to check" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="DZ_04 send for verification" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ_04 send for verification" />
   </component>
 </project>
