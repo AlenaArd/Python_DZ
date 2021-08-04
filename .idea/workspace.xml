@@ -4,34 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="DZ_04 send for verification">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/DZ_4_07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_ 1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_5.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_6.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/DZ_04/exercise_7.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_4/DZ_4_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_4/DZ_4_07.py" afterDir="false" />
-    </list>
+    <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="AAdz_05 send for test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -41,6 +25,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DZ_4/DZ_4_01.py" root0="FORCE_HIGHLIGHTING" />
@@ -57,22 +49,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Python.DZ_4_07">
-    <configuration name="DZ_4_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DZ_5_03">
+    <configuration name="DZ_5_01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_05" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,19 +73,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DZ_4_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ_5_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_05" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,19 +94,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DZ_4_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ_5_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_05" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,19 +115,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DZ_4_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ_5_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_05" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,19 +136,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DZ_4_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ_5_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_05" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_4/DZ_4_07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DZ_5_07" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_05" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,19 +201,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.DZ_4_04" />
-      <item itemvalue="Python.DZ_4_05" />
-      <item itemvalue="Python.DZ_4_03" />
-      <item itemvalue="Python.DZ_4_06" />
-      <item itemvalue="Python.DZ_4_07" />
+      <item itemvalue="Python.DZ_5_07" />
+      <item itemvalue="Python.DZ_5_01" />
+      <item itemvalue="Python.DZ_5_03" />
+      <item itemvalue="Python.DZ_5_04" />
+      <item itemvalue="Python.DZ_5_05" />
+      <item itemvalue="Python.DZ_5_06" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DZ_4_07" />
-        <item itemvalue="Python.DZ_4_06" />
-        <item itemvalue="Python.DZ_4_05" />
-        <item itemvalue="Python.DZ_4_04" />
-        <item itemvalue="Python.DZ_4_03" />
+        <item itemvalue="Python.DZ_5_03" />
+        <item itemvalue="Python.DZ_5_06" />
+        <item itemvalue="Python.DZ_5_05" />
+        <item itemvalue="Python.DZ_5_04" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627733915539</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="AAdz_05 send for test">
+      <created>1628095854596</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628095854596</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +290,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Py_AA_04" />
+                        <option value="Py_DZ_05" />
                       </list>
                     </value>
                   </entry>
@@ -294,6 +314,7 @@
     <MESSAGE value="DZ_03 tasks to check" />
     <MESSAGE value="init" />
     <MESSAGE value="DZ_04 send for verification" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ_04 send for verification" />
+    <MESSAGE value="AAdz_05 send for test" />
+    <option name="LAST_COMMIT_MESSAGE" value="AAdz_05 send for test" />
   </component>
 </project>

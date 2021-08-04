@@ -1,0 +1,11 @@
+Informatics: 100(l) 50(pr) 20(lab)
+Physics: 30(l) - 10(lab)
+Sport: - 30(pr)
+Mathematics: 60(l) 80(pr) 10(control)
+Biology: 90(l) 50(pr) 15(lab)
+Chemistry: 85(l) 75(pr) 45(lab)
+English: 60(l) 60(pr) 20(control)
+
+
+
+
