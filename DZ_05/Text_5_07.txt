@@ -1,8 +1,8 @@
-Zegna OOO 10000 5000
-Hermes OAO 11000 8000
-Fendi ЗАО 10000 10020
-Louis Vuitton ООО 30000 15000
-Salvatore Ferragamo СП 40000 25000
-Gucci ОАО 110000 35000
-Dolce & Gabbana ЗАО 170000 75000
-Prada СП 110000 115000
+Zegna LLC 10000 5000
+Hermes JSC 11000 8000
+Fendi JV 10000 10020
+Louis_Vuitton JSC 30000 15000
+Salvatore_Ferragamo LLC 40000 25000
+Gucci JV 110000 35000
+Dolce_&_Gabbana LLC 170000 75000
+Prada JV 110000 115000
