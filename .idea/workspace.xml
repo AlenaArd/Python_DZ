@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< refs/remotes/origin/Py_DZ_05
     <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="AAdz_04 send for verification">
       <change afterPath="$PROJECT_DIR$/DZ_05/Text_5_01.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DZ_05/Text_5_05.txt" afterDir="false" />
@@ -24,6 +25,9 @@
       <change beforePath="$PROJECT_DIR$/DZ_05/Text_5_06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_05/Text_5_06.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ_05/Text_5_07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_05/Text_5_07.txt" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="AAdz_05 send for test" />
+>>>>>>> duble_1
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627733915539</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="AAdz_05 send for test">
+      <created>1628095854596</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628095854596</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +337,7 @@
     <MESSAGE value="DZ_03 tasks to check" />
     <MESSAGE value="init" />
     <MESSAGE value="DZ_04 send for verification" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ_04 send for verification" />
+    <MESSAGE value="AAdz_05 send for test" />
+    <option name="LAST_COMMIT_MESSAGE" value="AAdz_05 send for test" />
   </component>
 </project>
