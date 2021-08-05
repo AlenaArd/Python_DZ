@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/Py_DZ_05
     <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="AAdz_04 send for verification">
       <change afterPath="$PROJECT_DIR$/DZ_05/Text_5_01.txt" afterDir="false" />
@@ -28,6 +29,9 @@
 =======
     <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="AAdz_05 send for test" />
 >>>>>>> duble_1
+=======
+    <list default="true" id="f8439706-67e1-4bba-85c9-1f8296a87ad4" name="Default Changelist" comment="AAdz_05 send for test" />
+>>>>>>> main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +80,8 @@
   </component>
   <component name="RunManager" selected="Python.DZ_5_03">
     <configuration name="DZ_5_01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+<<<<<<< HEAD
+=======
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -97,6 +103,7 @@
       <method v="2" />
     </configuration>
     <configuration name="DZ_5_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -108,7 +115,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_01.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_03.py" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +128,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="DZ_5_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="DZ_5_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -129,7 +144,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_03.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_04.py" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +157,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="DZ_5_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="DZ_5_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -150,7 +173,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_04.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_05.py" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +186,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="DZ_5_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="DZ_5_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -171,6 +202,36 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_05.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_06.py" />
+>>>>>>> main
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="DZ_5_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="DZ_5_07" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+>>>>>>> main
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_05" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -192,6 +253,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+=======
+>>>>>>> main
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_05/DZ_5_07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
