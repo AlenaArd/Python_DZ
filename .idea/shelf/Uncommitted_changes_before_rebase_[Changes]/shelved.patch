@@ -1,0 +1,37 @@
+Index: DZ_05/Text_5_01.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>I am a student\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/DZ_05/Text_5_01.txt b/DZ_05/Text_5_01.txt
+--- a/DZ_05/Text_5_01.txt	(revision 74c7046e33cdce952687bf08e3918732d0fc5290)
++++ b/DZ_05/Text_5_01.txt	(date 1628548418677)
+@@ -1,1 +1,11 @@
+-I am a student
++hdAKFDHG
++FGLJSGFLU
++JFGLJGAK
++sjdehGEKJHIKHLKSJHglkjl/
++SJGE>JKHjsdhgeKH?LKGH/
++msGDnKJNVK?SJHG?h/lkjhlkh/
++dmjgnhjsb/jkH?JH?JLH?LHLJ:L
++klSDJGklHLHJHDJHJH>J?JM<<MM<M>M
++jsdhg.jksGHkjsdn,mdnbz m,dcxn 
++aswrrrrrraasrrrrsrwWRRRRRRRrrrr
++ 
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\n3/\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 74c7046e33cdce952687bf08e3918732d0fc5290)
++++ b/.gitignore	(date 1628541778203)
+@@ -1,2 +1,1 @@
+-
+-3/
++/.idea/

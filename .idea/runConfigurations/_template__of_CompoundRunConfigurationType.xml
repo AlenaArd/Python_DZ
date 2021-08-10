@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="CompoundRunConfigurationType">
+    <toRun name="ardyuk_w" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
