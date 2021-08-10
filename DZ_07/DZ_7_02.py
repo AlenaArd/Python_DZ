@@ -3,8 +3,13 @@ from abc import ABC, abstractmethod
 
 class Clothes(ABC):
 <<<<<<< HEAD
+<<<<<<< HEAD
     @abstractmethod
     def consumption(self):
+=======
+    @abcstractmethod
+    def consumplition(self):
+>>>>>>> Py_DZ_07
 =======
     @abcstractmethod
     def consumplition(self):
@@ -18,7 +23,11 @@ class Coat(Clothes):
 
     @property
 <<<<<<< HEAD
+<<<<<<< HEAD
     def consumption(self):
+=======
+    def consumplition(self):
+>>>>>>> Py_DZ_07
 =======
     def consumplition(self):
 >>>>>>> Py_DZ_07
@@ -30,6 +39,7 @@ class Suit(Clothes):
         self.h = h
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     @property
     def consumption(self):
         return 2 * self.h + 0.3
@@ -38,6 +48,8 @@ class Suit(Clothes):
 coat = Coat(46)
 costume = Suit(1.6)
 =======
+=======
+>>>>>>> Py_DZ_07
     @prorerty
     def consumplition(self):
         return 2 * self.h + 0.3
@@ -45,6 +57,9 @@ costume = Suit(1.6)
 
 coat = Coat(50)
 costume = Suit(1.96)
+<<<<<<< HEAD
+>>>>>>> Py_DZ_07
+=======
 >>>>>>> Py_DZ_07
 print(coat.consumption)
 print(costume.consumption)
