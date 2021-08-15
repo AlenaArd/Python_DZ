@@ -23,7 +23,7 @@ class OfficeEquipment:
 
 
 xerox1 = OfficeEquipment('Hp_0123', 1, 5)
-scaner1 = OfficeEquipment('Epson_15', 1, 1)
+scaner1 = OfficeEquipment('Epson_15', 3, 1)
 printer1 = OfficeEquipment('Epson_23', 2, 2)
 print(printer1.of_count)
 print(printer1.reception)
