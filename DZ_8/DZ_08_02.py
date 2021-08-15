@@ -10,6 +10,6 @@ y = float(input('Введите делитель - '))
 try:
     res = x / y
 except ZeroDivisionError:
-    print("Делить на ноль НЕЛЬЗЯ!!!")
+    print("Делить НА ноль НЕЛЬЗЯ!!!")
 else:
     print("Все нормально. x/y=", res)

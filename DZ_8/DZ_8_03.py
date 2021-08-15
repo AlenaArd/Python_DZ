@@ -13,7 +13,7 @@ while a != '!':
         if a is False:
             raise MyList("Вы ввели не число !!!!")
     except ValueError:
-        print("Error type of value! You didn't enter a number !!!!")
+        print("Ошибка типа значения! Вы ввели не число !!!")
     except MyList as ml:
         print(ml)
     else:

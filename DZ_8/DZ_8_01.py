@@ -33,7 +33,7 @@ class Data:
         return cls.number_type
 
 
-date_1 = Data(1, 1, 2019)
+date_1 = Data(23, 11, 2019)
 date_2 = Data(31, 2, 2021)
 
 print(date_1.date_check(1, 1, 2019))
